@@ -1,0 +1,64 @@
+{
+  "name": "portfolio",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.2.2",
+    "aos": "^2.3.4",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-particles-js": "^3.4.1",
+    "react-scripts": "4.0.1",
+    "tsparticles": "1.33.2",
+    "web-vitals": "^3.1.0"
+  },
+  "devDependencies": {
+    "axios": "^0.15.3",
+    "bootstrap-sass": "^3.3.7",
+    "cross-env": "^3.2.4",
+    "jquery": "^3.1.1",
+    "laravel-mix": "0.*",
+    "lodash": "^4.17.4",
+    "vue": "^2.1.10"
+  },
+  "scripts": {
+    "build": "babel src -d lib",
+    "start": "node server.js",
+
+    "watch": "nodemon --exec \"npm run build && node lib/index.js\" -e js --ignore lib/",
+    "dev": "lite-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "keywords": [
+    "cyber",
+    "security",
+    "malware",
+    "analyst",
+    "CIA",
+    "problem-solver",
+    "critical-thinker", 
+    "ghidra"
+  ],
+  "author": "fullstack.melissa@gmail.com",
+  "license": "ISC"
+}

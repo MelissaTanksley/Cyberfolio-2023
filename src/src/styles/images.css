@@ -1,0 +1,44 @@
+
+/* Add your profile image here */
+.Photo{
+    background-image: url('https://static.vecteezy.com/system/resources/previews/001/397/516/large_2x/cyber-security-illustration-free-vector.jpg');
+    height:;
+    width: ;
+
+}
+/* Projects Photo */
+.project1{
+    background-image: url('https://preview.redd.it/wm1f4hjcr4821.jpg?auto=webp&s=35502332c0d68e1463af262e0c666dae10b71f30');
+    cursor: none;    
+}
+.project2{
+    background-image: url('https://media.ma-no.org/imgr/1280-640/admin-sqli_boleana.jpg');
+    cursor: none;
+}
+.project3{
+    background-image: url('https://www.ictdemy.com/images/5728/nodejs_logo.png');
+    cursor: none;
+}
+.project4{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+four');
+    cursor: none;
+}
+.project5{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+five');
+    cursor: none;
+}
+.project6{
+    background-image: url('https://via.placeholder.com/400x600.png?text=Project+six');
+    cursor: none;
+}
+/* Miscelaneous Activities photo */
+.misc1{
+    background-image: url('https://i.ytimg.com/vi/c-e1Y_-Cs8U/maxresdefault.jpg');
+    cursor: none;
+}
+.misc2{
+    background-image: url('https://tse3.mm.bing.net/th?id=OIP.ZqLse9pU9IqTJAvIZCQOJQHaHs&pid=Api&P=0&h=180')
+}
+.misc3{
+    background-image: url('https://tse4.mm.bing.net/th?id=OIP.ugcoQKZvPLBjp_M6KfwYfQHaIY&pid=Api&P=0&h=180')
+}
